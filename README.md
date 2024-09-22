@@ -2,7 +2,7 @@
 This project utilizes Machine Learning techniques to predict the outcome of T20 cricket matches. 
 **Key features of the notebook include:**
 
-**Data Preprocessing:** Cleaning and preparing match data for training and testing machine learning models.
+**Data Preprocessing:** Cleaning and preparing match data for training and testing machine learning models. "/n"
 **Model Training and Evaluation:** Implementation of models such as Linear Regression to predict outcomes. The performance is evaluated using metrics like mean squared error.
 **Visualization:** Residuals vs Predicted Values plot generated using Matplotlib and Seaborn to analyze the performance of the model.
 **Python Libraries Used:**
